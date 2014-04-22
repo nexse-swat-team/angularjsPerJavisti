@@ -1,0 +1,14 @@
+{
+    "name": "corso-angularjs",
+    "private": true,
+    "version": "0.0.0",
+    "license": "MIT",
+    "devDependencies": {
+        "http-server": "^0.6.1",
+        "bower": "^1.3.2"
+    },
+    "scripts": {
+        "postinstall": "bower install",
+        "start": "http-server -p 8000"
+    }
+}

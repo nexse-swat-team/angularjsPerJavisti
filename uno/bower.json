@@ -1,0 +1,11 @@
+{
+    "name": "corso-angularjs",
+    "private": true,
+    "version": "0.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "jquery": "^2.1.0",
+        "underscore": "^1.6.0",
+        "angular": "^1.2.16"
+    }
+}
